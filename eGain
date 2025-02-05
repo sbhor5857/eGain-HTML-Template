@@ -2,19 +2,18 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f4f4f4;">
     <div style="max-width: 600px; margin: auto; background: #ffffff; padding: 20px;">
         <div style="text-align: left; padding: 20px;">
              <img src="https://hd.egain.com/wp-content/images/Gen-ai-egain-logo-4.gif?1738674196242" alt="eGain" width="140" height="auto">
         </div>
-        <div style="text-align: center;">
-            <img src="https://hd.egain.com/images/social-customers.jpg" alt="AI Knowledge for Field Service" style="width: 100%; max-width: 600px; height: auto;">
+        <div style="text-align: center;"><h2>easy with eGain</h2>
+            <img src="https://hd.egain.com/images/social-customers.jpg" alt="easy with eGain" style="width: 100%; max-width: 600px; height: auto;">
         </div>
         <div style="padding: 20px;">
             <div style="margin-bottom: 20px;">
-                <h2>Overcome SharePoint Limitations</h2>
+                <h2>Overcome SharePoint Limitations<sup>*</sup></h2>
                 <p>Discover how eGain Knowledge Hub helps businesses surpass the constraints of SharePoint for knowledge management.</p>
             </div>
             <div style="margin-bottom: 20px;">
@@ -23,13 +22,15 @@
             
             </div>
             <div style="text-align: center; margin: 10px 0; font-weight: bold;">
-                <a href="https://www.egain.com/contact-us/" title="contact Us"style="background: #0073e6; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 5px;">Contact Us</a>
+                <a alias="Contact_Us_CTA_link" href="https://www.egain.com/contact-us/" title="contact Us"style="background: #0073e6; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 5px;">Contact Us</a>
             </div>
         </div>
         <div style="text-align: center; padding: 5px; background: #222; color: #ffffff;">
-            <p><h3>Follow us on</h3><br><a href="https://www.linkedin.com/company/egain-corporation/" title="Linkedin"style="color: #0073e6; text-decoration: none;">LinkedIn</a> | <a href="https://www.facebook.com/eGain" title="Facebook" style="color: #0073e6; text-decoration: none;">Facebook</a></p>
-            <p><a href="https://www.egain.com/form-subscription-best-practice-emails/" title="Unsubscribe"style="color: #0073e6; text-decoration: none;">Unsubscribe</a></p>
+            <p><h3>Follow us on</h3><br><a alias="Linkedin_link" href="https://www.linkedin.com/company/egain-corporation/" title="Linkedin"style="color: #0073e6; text-decoration: none;">LinkedIn</a> | <a href="https://www.facebook.com/eGain" title="Facebook" style="color: #0073e6; text-decoration: none;">Facebook</a></p>
+            <p><a alias="Facebook_link" href="https://www.egain.com/form-subscription-best-practice-emails/" title="Unsubscribe"style="color: #0073e6; text-decoration: none;">Unsubscribe</a></p>
         </div>
+        <div style="text-align:left; font-size:12px"><P><sup>*</sup>Tearms and conditions apply.</P></div>
+        <a style="text-align:left; color: #ffffff; text-decoration: none; font-size: 12px ">Tearms and conditons apply.</a>
     </div>
 </body>
 </html>
