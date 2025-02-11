@@ -26,8 +26,9 @@
             </div>
         </div>
         <div style="text-align: center; padding: 5px; background: #222; color: #ffffff;">
-            <p><h3>Follow us on</h3><br><a alias="Linkedin_link" href="https://www.linkedin.com/company/egain-corporation/" title="Linkedin"style="color: #0073e6; text-decoration: none;">LinkedIn</a> | <a href="https://www.facebook.com/eGain" title="Facebook" style="color: #0073e6; text-decoration: none;">Facebook</a></p>
-            <p><a alias="Facebook_link" href="https://www.egain.com/form-subscription-best-practice-emails/" title="Unsubscribe"style="color: #0073e6; text-decoration: none;">Unsubscribe</a></p>
+            <p><h3>Follow us on</h3><br><a alias="Linkedin_link" href="https://www.linkedin.com/company/egain-corporation/" title="Linkedin"style="color: #0073e6; text-decoration: none;">LinkedIn</a> | 
+                                        <a alias="Facebook_link" href="https://www.facebook.com/eGain" title="Facebook" style="color: #0073e6; text-decoration: none;">Facebook</a></p>
+            <p><a alias="Unsubscribe_link" href="https://www.egain.com/form-subscription-best-practice-emails/" title="Unsubscribe"style="color: #0073e6; text-decoration: none;">Unsubscribe</a></p>
         </div>
         <div style="text-align:left; font-size:12px"><P><sup>*</sup>Tearms and conditions apply.</P></div>
         <a style="text-align:left; color: #ffffff; text-decoration: none; font-size: 12px ">Tearms and conditons apply.</a>
